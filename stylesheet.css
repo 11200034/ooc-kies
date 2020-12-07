@@ -14,13 +14,11 @@ a {
 .container {
   width: 1170px;
   margin: 0 auto;
-  color: white;
+  color: White;
 }
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-size: cover;
-  color: white;
   text-align: center;
 }
 
@@ -29,12 +27,13 @@ a {
   font-size: 45px;
   letter-spacing: 5px;
   margin-bottom: 10px;
-  color: black;
+  color: White;
 }
 
 .top-wrapper p {
   opacity: 0.7;
   margin-bottom: 3px;
+  color:black;
 }
 
 .btn-wrapper {
@@ -79,7 +78,7 @@ a {
 header {
   height: 65px;
   width: 100%;
-  background-color: RGB(222, 184, 135);
+  background-color: #778899;
   position :fixed;
   top: 0;
   z-index: 10;
@@ -197,13 +196,11 @@ footer {
   padding-top: 30px;
 }
 .contact-submit {
-  background-color: #dee7ec;
+  background-color:#8FBC8F;
   color: #889eab;
 }
 
 .footer {
-  background-color:#DEB887;
-  color: #fff;
   height: 20x;
   padding: 40px;
 }
